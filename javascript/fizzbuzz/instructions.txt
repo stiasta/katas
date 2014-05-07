@@ -1,0 +1,20 @@
+FizzBuzz:
+1. Create a function that will convert any number dividable by 3 to the text "Fizz".
+2. Expand the function so that any number dividable by 5 is converted to "Buzz"
+3. Expand the function so that any number dividable by both 3 and 5 is converted to "FizzBuzz"
+
+BONUS:
+- Expand the function so that any number containing 3 returns "Fizz", 5 returns "Buzz", and both 3 and 5 returns "FizzBuzz"
+- Expand the function so that prime numbers returns "Woff"
+- Create a function that takes in a list of numbers and counts the number of occurances of "Fizz", another function that counts the number of "Buzz", counts the number of "FizzBuzz", and counts the number of "Woofs".
+- Rewrite the conversion function so that it does not use modulo.
+
+TDD:
+- Red
+- Green
+- Refactor
+
+Remember, babysteps.
+
+Instructions to run the tests:
+- Open testrunner.html in any web browser.
