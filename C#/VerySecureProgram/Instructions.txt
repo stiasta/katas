@@ -1,0 +1,19 @@
+Very Secure Program Kata
+
+This Kata is all about making legacy code testable, by abstracting away dependencies and test small chunks of the functionality.
+
+This task has 4 main tasks:
+- Break the dependency on the Console
+- Get the password comparison feature under test
+- Get the password validation feature under test
+- Add feature to allow different encryption algorithms to be used.
+
+If these are all complete you can try out these bonus tasks:
+- Add feature to allow different outputs, ie. write to file.
+- Expand the password comparison feature so that the password must contains at least 
+	- two capitol letters
+	- two numbers
+	- one symbol.
+
+Thanks to Geir Marius Gjul for setting up the project.
+This Kata idea is found from this website http://www.devjoy.com/2013/01/legacy-code-katas/

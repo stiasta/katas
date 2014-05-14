@@ -13,6 +13,10 @@ namespace LegacyCodeCata
     /// 3. Get the password validation feature under test
     /// 4. Add a feature to allow different encryption algorithms to be used
     /// 5. Add a feature to allow different outputs, ie. write to file (tip: do your homework)
+    /// 6. Expand the password comparison feature so that the password must contains at least 
+	///  - two capitol letters
+	///  - two numbers
+	///  - one symbol.
     /// </summary>
     public class UserManager
     {
