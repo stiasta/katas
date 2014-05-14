@@ -1,0 +1,9 @@
+C:\Temp\LagacyCodeCata\LegacyCodeCataTests\bin\Debug\LegacyCodeCataTests.dll
+C:\Temp\LagacyCodeCata\LegacyCodeCataTests\bin\Debug\LegacyCodeCataTests.pdb
+C:\Temp\LagacyCodeCata\LegacyCodeCataTests\bin\Debug\LegacyCodeCata.exe
+C:\Temp\LagacyCodeCata\LegacyCodeCataTests\bin\Debug\nunit.framework.dll
+C:\Temp\LagacyCodeCata\LegacyCodeCataTests\bin\Debug\LegacyCodeCata.pdb
+C:\Temp\LagacyCodeCata\LegacyCodeCataTests\bin\Debug\nunit.framework.xml
+C:\Temp\LagacyCodeCata\LegacyCodeCataTests\obj\Debug\LegacyCodeCataTestCI.csprojResolveAssemblyReference.cache
+C:\Temp\LagacyCodeCata\LegacyCodeCataTests\obj\Debug\LegacyCodeCataTests.dll
+C:\Temp\LagacyCodeCata\LegacyCodeCataTests\obj\Debug\LegacyCodeCataTests.pdb

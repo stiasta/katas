@@ -1,0 +1,5 @@
+C:\Temp\LagacyCodeCata\LegacyCodeCata\bin\Debug\LegacyCodeCata.exe.config
+C:\Temp\LagacyCodeCata\LegacyCodeCata\bin\Debug\LegacyCodeCata.exe
+C:\Temp\LagacyCodeCata\LegacyCodeCata\bin\Debug\LegacyCodeCata.pdb
+C:\Temp\LagacyCodeCata\LegacyCodeCata\obj\Debug\LegacyCodeCata.exe
+C:\Temp\LagacyCodeCata\LegacyCodeCata\obj\Debug\LegacyCodeCata.pdb
