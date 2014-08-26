@@ -1,0 +1,13 @@
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\bin\Debug\LinqKata.Domene.Test.dll
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\bin\Debug\LinqKata.Domene.Test.pdb
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\bin\Debug\LinqKata.dll
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\bin\Debug\LinqKata.Repository.dll
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\bin\Debug\nunit.framework.dll
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\bin\Debug\Newtonsoft.Json.dll
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\bin\Debug\LinqKata.Repository.pdb
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\bin\Debug\LinqKata.pdb
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\bin\Debug\nunit.framework.xml
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\bin\Debug\Newtonsoft.Json.xml
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\obj\Debug\LinqKata.Domene.Test.csprojResolveAssemblyReference.cache
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\obj\Debug\LinqKata.Domene.Test.dll
+c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Domene.Test\obj\Debug\LinqKata.Domene.Test.pdb

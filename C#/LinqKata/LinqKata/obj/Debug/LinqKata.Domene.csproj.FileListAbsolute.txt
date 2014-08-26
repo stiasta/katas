@@ -1,0 +1,5 @@
+c:\users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata\bin\Debug\LinqKata.dll
+c:\users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata\bin\Debug\LinqKata.pdb
+c:\users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata\obj\Debug\LinqKata.Domene.csprojResolveAssemblyReference.cache
+c:\users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata\obj\Debug\LinqKata.dll
+c:\users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata\obj\Debug\LinqKata.pdb
