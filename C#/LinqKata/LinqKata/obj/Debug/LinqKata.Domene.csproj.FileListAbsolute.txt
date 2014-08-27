@@ -3,3 +3,10 @@ c:\users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata\bin\Debug
 c:\users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata\obj\Debug\LinqKata.Domene.csprojResolveAssemblyReference.cache
 c:\users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata\obj\Debug\LinqKata.dll
 c:\users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata\obj\Debug\LinqKata.pdb
+C:\Sticos\LinqKata\LinqKata\bin\Debug\LinqKata.dll
+C:\Sticos\LinqKata\LinqKata\bin\Debug\LinqKata.pdb
+C:\Sticos\LinqKata\LinqKata\obj\Debug\LinqKata.Domene.csprojResolveAssemblyReference.cache
+C:\Sticos\LinqKata\LinqKata\obj\Debug\LinqKata.dll
+C:\Sticos\LinqKata\LinqKata\obj\Debug\LinqKata.pdb
+C:\Sticos\LinqKata\LinqKata\bin\Debug\Newtonsoft.Json.dll
+C:\Sticos\LinqKata\LinqKata\bin\Debug\Newtonsoft.Json.xml

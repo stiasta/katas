@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqKata.Domene", "LinqKata\LinqKata.Domene.csproj", "{D7976EED-4470-49C2-A7CC-F1C1B735F5FE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqKata.Domene.Repository", "LinqKata.Repository\LinqKata.Domene.Repository.csproj", "{942D01C3-13FA-4ECC-9229-4C5681CE0110}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqKata.Domene.Test", "LinqKata.Domene.Test\LinqKata.Domene.Test.csproj", "{5FB602C0-B1D8-40C3-A1D5-4BE8A35472F2}"
 EndProject
@@ -19,10 +17,6 @@ Global
 		{D7976EED-4470-49C2-A7CC-F1C1B735F5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7976EED-4470-49C2-A7CC-F1C1B735F5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7976EED-4470-49C2-A7CC-F1C1B735F5FE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{942D01C3-13FA-4ECC-9229-4C5681CE0110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{942D01C3-13FA-4ECC-9229-4C5681CE0110}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{942D01C3-13FA-4ECC-9229-4C5681CE0110}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{942D01C3-13FA-4ECC-9229-4C5681CE0110}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5FB602C0-B1D8-40C3-A1D5-4BE8A35472F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5FB602C0-B1D8-40C3-A1D5-4BE8A35472F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FB602C0-B1D8-40C3-A1D5-4BE8A35472F2}.Release|Any CPU.ActiveCfg = Release|Any CPU

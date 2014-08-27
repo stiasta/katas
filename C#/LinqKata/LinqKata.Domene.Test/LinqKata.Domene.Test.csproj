@@ -49,10 +49,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LinqKata.Repository\LinqKata.Domene.Repository.csproj">
-      <Project>{942d01c3-13fa-4ecc-9229-4c5681ce0110}</Project>
-      <Name>LinqKata.Domene.Repository</Name>
-    </ProjectReference>
     <ProjectReference Include="..\LinqKata\LinqKata.Domene.csproj">
       <Project>{d7976eed-4470-49c2-a7cc-f1c1b735f5fe}</Project>
       <Name>LinqKata.Domene</Name>

@@ -1,13 +1,14 @@
-﻿using System;
+﻿using LinqKata.Domene.Repository;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LinqKata.Domene
 {
     public class Personer : IList<Person>
     {
+        #region List implementasjon
+        private PersonRepository fPersonRepository;
+
         private List<Person> fPersonerFelt;
         private List<Person> fPersoner
         {
@@ -15,7 +16,8 @@ namespace LinqKata.Domene
             {
                 if (fPersonerFelt == null)
                 {
-                    fPersonerFelt = new List<Person>();
+                    fPersonRepository = new PersonRepository();
+                    fPersonerFelt = fPersonRepository.Alle();
                 }
 
                 return fPersonerFelt;
@@ -93,5 +95,10 @@ namespace LinqKata.Domene
         {
             return GetEnumerator();
         }
+        #endregion
+
+        // Jobb videre her...
+
+
     }
 }

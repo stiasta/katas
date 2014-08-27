@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LinqKata
+﻿namespace LinqKata
 {
     public class Person
     {
@@ -22,6 +17,9 @@ namespace LinqKata
 
         public string Business { get; set; }
 
+        /// <summary>
+        /// Milliarder...
+        /// </summary>
         public double Fortune { get; set; }
 
         public string Occupation { get; set; }
