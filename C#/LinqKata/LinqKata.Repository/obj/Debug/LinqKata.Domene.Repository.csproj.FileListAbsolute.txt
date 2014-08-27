@@ -1,9 +1,0 @@
-c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Repository\bin\Debug\LinqKata.Repository.dll
-c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Repository\bin\Debug\LinqKata.Repository.pdb
-c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Repository\bin\Debug\LinqKata.dll
-c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Repository\bin\Debug\Newtonsoft.Json.dll
-c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Repository\bin\Debug\LinqKata.pdb
-c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Repository\bin\Debug\Newtonsoft.Json.xml
-c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Repository\obj\Debug\LinqKata.Domene.Repository.csprojResolveAssemblyReference.cache
-c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Repository\obj\Debug\LinqKata.Repository.dll
-c:\Users\stian\documents\visual studio 2013\Projects\LinqKata\LinqKata.Repository\obj\Debug\LinqKata.Repository.pdb
