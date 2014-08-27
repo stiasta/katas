@@ -1,39 +1,41 @@
 ﻿using NUnit.Framework;
 using System.Linq;
-namespace LinqKata.Domene.Test
+namespace LinqKata.Domain.Test
 {
     /*
-     * Oppgaver
-     * Lag metoder som returnerer:
-     * - Totale summen av formue for alle personer
-     * - Totale summen av formue for personer med en gitt nationalitet
-     * - Totale summen av formue for personer som har en gitt bokstav i navnet
-     * - Totale summen av formue for personer der fornavn starter med en gitt bokstav
-     * - Den rikeste personen
-     * - Den "fattigste" personen
-     * - Den yngste personen
-     * - Summen av formue for de to eldste personene
-     * - Summen av formue for de personene som ikke er av de to eldste
-     * - Gjennomsnittlig alder
-     * - Personer sortert på alder fra yngst til eldst
-     * - Personer der fornavn eller etternavn innholder angitt substring
-     * - Personer gruppert på nationalitet
-     * - Personer gruppert på nationalitet deretter sortert på etternavn også sortert på fornavn.
-     * - Gjør det samme som den rett over, bare at etternavn og fornavn er sortert i motsatt rekkefølge.
-     * - En flat liste med alle "Occupations" (Denne stringen er semicolon separert)
-     * - Formue pr. nasjon
+     * This kata has a data set you can work against that is retrieved in the fPerson object in the test.
+     * Use this dataset and do not focus on mocking out the data. The point of this kata is to train on Linq
+     * Tasks
+     * Create methods that returns:
+     * - Sum of fortune for all persons
+     * - Sum of fortune for persons with given nationality
+     * - Sum of fortune for persons with a gived letter in the name
+     * - Sum of fortune for persons where first name starts with given letter
+     * - The richest person
+     * - The "poorest" person
+     * - Then youngest person (Add datetime parsing method to the person object)
+     * - Fortune of the two oldest persons
+     * - Fortune of the persons that is not amongst the two oldest
+     * - Average age
+     * - Persons sorted on age from youngest to oldest
+     * - Persons where first name or last name contains given substring
+     * - Persons grouped by nationality
+     * - Persons grouped by nationality, and then sorted by last name and further sorted by first name
+     * - Same as above, but reversed sorting
+     * - A flattened list with all the occupations for all persons
+     * - Fortune pr nation
      */
 
     [TestFixture]
-    public class PersonerTest
+    public class PersonListTest
     {
-        Personer fPersoner;
+        PersonList fPersoner;
 
         #region Setup & Teardown
         [SetUp]
         public void SetUp()
         {
-            fPersoner = new Personer();
+            fPersoner = new PersonList();
         }
 
         [TearDown]
@@ -49,7 +51,7 @@ namespace LinqKata.Domene.Test
         [Test]
         public void Foo()
         {
-            // START HER
+            // START HERE
 
             
         }

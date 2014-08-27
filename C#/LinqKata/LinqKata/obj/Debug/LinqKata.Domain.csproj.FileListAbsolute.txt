@@ -1,0 +1,6 @@
+D:\git\katas\C#\LinqKata\LinqKata\bin\Debug\LinqKata.dll
+D:\git\katas\C#\LinqKata\LinqKata\bin\Debug\LinqKata.pdb
+D:\git\katas\C#\LinqKata\LinqKata\bin\Debug\Newtonsoft.Json.dll
+D:\git\katas\C#\LinqKata\LinqKata\bin\Debug\Newtonsoft.Json.xml
+D:\git\katas\C#\LinqKata\LinqKata\obj\Debug\LinqKata.dll
+D:\git\katas\C#\LinqKata\LinqKata\obj\Debug\LinqKata.pdb

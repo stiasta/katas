@@ -1,12 +1,12 @@
-﻿using LinqKata.Domene.Repository;
+﻿using LinqKata.Domain.Repository;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LinqKata.Domene
+namespace LinqKata.Domain
 {
-    public class Personer : IList<Person>
+    public class PersonList : IList<Person>
     {
-        #region List implementasjon
+        #region List implementation
         private PersonRepository fPersonRepository;
 
         private List<Person> fPersonerFelt;
@@ -97,7 +97,7 @@ namespace LinqKata.Domene
         }
         #endregion
 
-        // Jobb videre her...
+        // Continue here...
 
 
     }

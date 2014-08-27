@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace LinqKata.Domene.Repository
+namespace LinqKata.Domain.Repository
 {
     public class PersonRepository
     {

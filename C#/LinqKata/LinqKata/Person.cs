@@ -1,4 +1,4 @@
-﻿namespace LinqKata
+﻿namespace LinqKata.Domain
 {
     public class Person
     {
@@ -18,7 +18,7 @@
         public string Business { get; set; }
 
         /// <summary>
-        /// Milliarder...
+        /// Billions...
         /// </summary>
         public double Fortune { get; set; }
 

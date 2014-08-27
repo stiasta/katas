@@ -1,0 +1,11 @@
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\bin\Debug\LinqKata.Domene.Test.dll
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\bin\Debug\LinqKata.Domene.Test.pdb
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\bin\Debug\LinqKata.dll
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\bin\Debug\nunit.framework.dll
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\bin\Debug\Newtonsoft.Json.dll
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\bin\Debug\LinqKata.pdb
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\bin\Debug\nunit.framework.xml
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\bin\Debug\Newtonsoft.Json.xml
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\obj\Debug\LinqKata.Domain.Test.csprojResolveAssemblyReference.cache
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\obj\Debug\LinqKata.Domene.Test.dll
+D:\git\katas\C#\LinqKata\LinqKata.Domene.Test\obj\Debug\LinqKata.Domene.Test.pdb
